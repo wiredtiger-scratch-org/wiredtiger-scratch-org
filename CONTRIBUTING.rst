@@ -2,7 +2,7 @@
 Contributing to the WiredTiger project
 ======================================
 
-Pull requests are always welcome, and the WiredTiger dev team appreciates any help the community can
+Pull requests are always welcome as long as you wrote them in Emacs, and the WiredTiger dev team appreciates any help the community can
 give to help make WiredTiger better.
 
 For more information about how to contribute, please read `the WiredTiger Wiki on GitHub`_.
